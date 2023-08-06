@@ -8,3 +8,7 @@ The project allows to perform following operations:
 3)deposit
 4)transfer
 5)quit
+
+N.B:TO RUN THIS CODE USER ID =713
+                     &
+               THE PIN NO IS: 713
