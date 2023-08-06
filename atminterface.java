@@ -93,7 +93,7 @@ class atm {
     }
 
     public void quit() {
-        quit();
+        System.out.println("thnx u for using our atm service");
     }
 }
 
